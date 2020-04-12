@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Shop
+namespace ConsoleApp4
 {
     public class Bread:Products
     {
         public Bread()
         {
-            price = 5;
+            this._price = 5;
+            this._endDate = 12;
         }
     }
 }
