@@ -8,7 +8,7 @@ namespace ConsoleApp4
     {
         public Bread()
         {
-            this._price = 5;
+            int a=3;
             this._endDate = 12;
         }
     }
