@@ -4,12 +4,13 @@ using System.Text;
 
 namespace ConsoleApp4
 {
-    public class Cake:Products
+    public class Cheese : Products
     {
-        public Cake()
+        public Cheese()
         {
-            this._price =20;
-            this._endDate = 2;
+            this._price = 25;
+            this._endDate = 8;
         }
+    
     }
 }
