@@ -7,8 +7,8 @@ namespace ConsoleApp4
     public class Bread:Products
     {
         public Bread()
-        {
-            int a=3;
+        {           
+            this._price=1;
             this._endDate = 12;
         }
     }
