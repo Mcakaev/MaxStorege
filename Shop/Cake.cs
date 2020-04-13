@@ -8,7 +8,7 @@ namespace ConsoleApp4
     {
         public Cake()
         {
-            this._price =77;
+            this._price =78;
             this._endDate = 5;
         }
     }
