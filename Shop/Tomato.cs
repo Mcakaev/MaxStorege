@@ -8,7 +8,7 @@ namespace ConsoleApp4
     {
         public Tomato()
         {
-            this._price = 5;
+            this._price = 3;
             this._endDate = 5;
         }
     
