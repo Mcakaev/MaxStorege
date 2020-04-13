@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -8,8 +8,8 @@ namespace ConsoleApp4
     {
         public Cake()
         {
-            this._price =20;
-            this._endDate = 2;
+            this._price =78;
+            this._endDate = 5;
         }
     }
 }
